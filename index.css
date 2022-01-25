@@ -1,0 +1,250 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+}
+
+p{
+  border: solid 1 px rgb(29, 10, 179);
+  font-size: large;
+  color:black;
+  text-align: center
+}
+
+h2{
+  background-color: black;
+  border: solid 1 px beige;
+  text-align: center;
+  color: rgb(216, 197, 23)  
+
+}
+
+#page_title{
+  margin-block-end: 20px;
+}
+.all{
+  text-align: center;
+}
+
+.btn1{
+  border: 0;
+  margin-block-end: 38px;
+  font-size:larger;
+  line-height: 1;
+  padding: 12px 50px ; 
+  border-radius:25px ;
+  background-color: #10c410;
+  cursor: pointer;
+  color: black;
+  
+  transition: all 0.3s linear;
+  
+  }
+.btn1:hover,
+.btn1:focus{
+  background: rgb(15, 189, 67);
+}
+.btn1:active{
+  background:seagreen;
+}
+
+.btn2{
+  border: 0;
+  margin-block-end: 38px;
+  font-size:larger;
+  line-height: 1;
+  padding: 12px 50px ;
+  border-radius:25px ;
+  background-color: #10c410;
+  color: black;
+  cursor: pointer;
+  transition: all 0.3s linear;
+  
+  }
+.btn2:hover,
+.btn2:focus{
+  background: rgb(177, 226, 192);
+}
+.btn2:active{
+  background:rgb(26, 172, 62);
+}
+
+.btn3{
+  border: 0;
+  margin-block-end: 38px;
+  font-size:larger;
+  line-height: 1;
+  padding: 12px 50px ;
+  border-radius:25px ;
+  background-color: #2b06af;
+  color: black;
+  cursor: pointer;
+  transition: all 0.3s linear;
+  
+  }
+.btn3:hover,
+.btn3:focus{
+  background: rgb(16, 41, 56);
+}
+.btn3:active{
+  background:rgb(62, 82, 71);
+}
+
+.btn4{
+  border: 0;
+  margin-block-end: 38px;
+  font-size:larger;
+  line-height: 1;
+  padding: 12px 50px ;
+  border-radius:25px ;
+  background-color: rgb(90, 9, 66);
+  color: black;
+  cursor: pointer;
+  transition: all 0.3s linear;
+  
+  }
+.btn4:hover,
+.btn4:focus{
+  background: rgb(187, 112, 194);
+}
+.btn4:active{
+  background:rgb(85, 61, 75);
+}
+
+.btn5{
+  border: 0;
+  margin-block-end: 38px;
+  font-size:larger;
+  line-height: 1;
+  padding: 12px 50px ;
+  border-radius:25px ;
+  background-color: rgb(255, 74, 195);
+  color: black;
+  cursor: pointer;
+  transition: all 0.3s linear;
+  
+  }
+.btn5:hover,
+.btn5:focus{
+  background: rgb(170, 93, 160);
+}
+.btn5:active{
+  background:rgb(100, 74, 94);
+}
+
+.btn6{
+  border: 0;
+  margin-block-end: 38px;
+  font-size:larger;
+  line-height: 1;
+  padding: 12px 50px ;
+  border-radius:25px ;
+  background-color: hsl(61, 90%, 48%);
+  color: black;
+  cursor: pointer;
+  transition: all 0.3s linear;
+  
+  }
+.btn6:hover,
+.btn6:focus{
+  background: rgb(185, 216, 46);
+}
+.btn6:active{
+  background:rgb(117, 173, 53);
+}
+
+.btn7{
+  border: 0;
+  margin-block-end: 38px;
+  font-size:larger;
+  line-height: 1;
+  padding: 12px 50px ;
+  border-radius:25px ;
+  background-color: rgb(241, 13, 13);
+  color: black;
+  cursor: pointer;
+  transition: all 0.3s linear;
+  
+  }
+.btn7:hover,
+.btn7:focus{
+  background: rgb(192, 33, 33);
+}
+.btn7:active{
+  background:rgb(107, 38, 38);
+}
+
+
+#lower_patr{
+  margin-block-end: auto;
+  background-color: black;
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  top: 960px;
+  
+}
+
+.lower_patr{
+  margin:auto;
+  width: 100%;
+  height: 400px;
+  background-color:#050203;
+  font-size: large;
+  color:beige;
+  text-align: center;
+  
+  
+
+} 
+.photo{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px; 
+  
+} 
+.l{
+  
+  color: beige;
+}
+
+ 
+.whts{
+  border: 0;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 29%;  
+  }
+
+.fecebook{
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 37%;  
+  }
+    
+ .tyetr{
+   width: 35px;
+   height: 35px;
+   position: absolute;
+   left: 45%;  
+  }
+    
+  .youtube{
+    border: 0;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    left: 53%;  
+    }
+    
+    .telegram{
+      width:35px;
+      height: 35px;
+      position: absolute;
+      left: 61%;
+    }
